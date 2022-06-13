@@ -1,0 +1,27 @@
+{
+  "name": "be",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khanhsnd/be-js.git"
+  },
+  "keywords": [
+    "be",
+    "js",
+    "node"
+  ],
+  "author": "khanhnd",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/khanhsnd/be-js/issues"
+  },
+  "homepage": "https://github.com/khanhsnd/be-js#readme",
+  "dependencies": {
+    "mongodb": "^4.7.0"
+  }
+}
